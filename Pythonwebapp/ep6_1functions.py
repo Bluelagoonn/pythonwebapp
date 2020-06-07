@@ -80,4 +80,5 @@ def student_info():
         print('Hello World NEWFreshness')
         print('Stout')
         print('IPA')
+        print('weizen')
 
