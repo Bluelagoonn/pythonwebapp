@@ -79,5 +79,5 @@ def student_info():
         display 'Hello World"""
         print('Hello World NEWFreshness')
         print('Stout')
-
+        print('IPA')
 
