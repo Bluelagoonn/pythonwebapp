@@ -78,5 +78,6 @@ def student_info():
         """ This function is used to
         display 'Hello World"""
         print('Hello World NEWFreshness')
+        print('Stout')
 
 
